@@ -69,7 +69,7 @@ Kullanım
 Projenin çalıştırılması için aşağıdaki adımları takip edebilirsiniz:
 
 Veri setini TSLA.csv dosyasından yükleyin.
-model.py dosyasını çalıştırarak modeli eğitin.
+.ipyd dosyasını çalıştırarak modeli eğitin.
 Eğitim tamamlandıktan sonra sonuçları ve grafikleri inceleyin.
 Sonuç
 Bu projede, LSTM modeli kullanılarak Tesla'nın hisse senedi fiyatlarının tahmin edilmesi sağlanmıştır. Modelin performansı, eğitim ve test veri setlerinde değerlendirilmiş ve sonuçlar analiz edilmiştir. Bu çalışma, yatırımcılara ve analistlere gelecekteki fiyat hareketlerini öngörmede yardımcı olabilir.
